@@ -349,7 +349,7 @@
 				INFOPLIST_FILE = BBSwiftApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fcd5203e-a03e-4297-ac59-dd6d7e1ffeef";
+				PROVISIONING_PROFILE = "a0aafb95-e3dc-4c64-8f0b-21a84a5396ac";
 			};
 			name = Debug;
 		};
@@ -362,7 +362,7 @@
 				INFOPLIST_FILE = BBSwiftApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "fcd5203e-a03e-4297-ac59-dd6d7e1ffeef";
+				PROVISIONING_PROFILE = "a0aafb95-e3dc-4c64-8f0b-21a84a5396ac";
 			};
 			name = Release;
 		};
